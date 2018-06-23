@@ -7,6 +7,9 @@
 
 > 3.[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+https://heroku.com/deploy?template=https://github.com/redyfmj/you2php-heroku/tree/web
+修改字段redyfmj/you2php-heroku为你自己的用户名/项目
+
 > 4.安装和配置 https://you2php.github.io/doc/
 
 ![image](https://user-images.githubusercontent.com/31188782/35389026-0b25d958-0211-11e8-92cf-53201231c061.png)
